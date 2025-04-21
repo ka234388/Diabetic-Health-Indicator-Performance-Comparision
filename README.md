@@ -81,6 +81,6 @@ jupyter notebook cap6545-mlp-tabtransformerfinalproject.ipynb
 ##  Author
 
 Name: Karthika Ramasamy
-Course:   CAP6545 - Machine Learning Methods of Bioinformation Data
+-Course:   CAP6545 - Machine Learning Methods of Bioinformation Data
 
 ---
